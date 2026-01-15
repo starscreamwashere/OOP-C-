@@ -9,7 +9,7 @@ class Customer
     int balance;
     Customer()
     {
-        cout<<"COnstructor is called"<<endl;
+        cout<<"COnstructor is called"<<endl;//Default constructor
     }
 };
 int main()
