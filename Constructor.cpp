@@ -19,7 +19,7 @@ class Customer
     //     account_number=ac;
     //     balance=b;
     // }
-    Customer(string name,int account_number,int balance)//this pointer, always points to the object
+    Customer(string name,int account_number,int balance)//this pointer always points to the object
     {
         this->name=name;
         this->account_number=account_number;
